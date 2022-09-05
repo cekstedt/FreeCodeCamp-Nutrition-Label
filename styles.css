@@ -7,7 +7,7 @@ html {
 }
 
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 .label {
@@ -20,7 +20,7 @@ body {
 header h1 {
   text-align: center;
   margin: -4px 0;
-  letter-spacing: 0.15px
+  letter-spacing: 0.15px;
 }
 
 p {
@@ -45,7 +45,8 @@ p {
   height: 10px;
 }
 
-.lg, .md {
+.lg,
+.md {
   background-color: black;
   border: 0;
 }
