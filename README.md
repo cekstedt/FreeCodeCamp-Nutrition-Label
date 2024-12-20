@@ -1,4 +1,4 @@
-# FreeCodeCamp - Learn Typography by Building a Nutrition Label solution
+# FreeCodeCamp - Building a Nutrition Label
 
 This is a solution to the [Learn Typography by Building a Nutrition Label](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-typography-by-building-a-nutrition-label/) course on [FreeCodeCamp](https://www.freecodecamp.org/).
 
